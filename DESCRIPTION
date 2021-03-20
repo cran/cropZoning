@@ -1,7 +1,7 @@
 Package: cropZoning
 Type: Package
 Title: Climate Crop Zoning Based in Air Temperature for Brazil
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(person(given = "Roberto",
                     family = "Filgueiras",
                     role = c("aut","cre"),
@@ -28,11 +28,11 @@ Depends: R (>= 2.10)
 Imports: raster, tidyr, ggplot2, rgdal, ncdf4
 BugReports: https://github.com/FilgueirasR/cropZoning/issues
 NeedsCompilation: no
-Packaged: 2021-01-21 16:22:35 UTC; betof
+Packaged: 2021-03-19 21:54:19 UTC; betof
 Author: Roberto Filgueiras [aut, cre] (<https://orcid.org/0000-0002-0186-8907>),
   Luan P. Venancio [aut] (<https://orcid.org/0000-0002-5544-8588>),
   Catariny C. Aleman [aut] (<https://orcid.org/0000-0002-3894-3077>),
   Fernando F. da Cunha [aut] (<https://orcid.org/0000-0002-1671-1021>)
 Maintainer: Roberto Filgueiras <betofilgueiras@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-01-25 08:30:05 UTC
+Date/Publication: 2021-03-20 19:00:03 UTC
